@@ -1,0 +1,10 @@
+{
+  "licenses": [
+    {
+      "keyHash": "COLOQUE_AQUI_O_SHA256_DA_LICENCA",
+      "enabled": true,
+      "expiresAt": "2026-12-31T23:59:59Z",
+      "product": "premium"
+    }
+  ]
+}
