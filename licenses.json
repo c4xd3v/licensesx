@@ -4,7 +4,8 @@
       "keyHash": "50EF20070D463B7E0DB7B62D0456BC097D6EF28057A75A219A31BF0229A0D5C9",
       "enabled": true,
       "expiresAt": "2026-09-22T15:14:54Z",
-      "product": "premium"
+      "product": "premium",
+      "hwidHash": "8E6192B31E4041D6ED7AC4D2673E92EEE0D7313418E81E7EE299BAD34730531A"
     }
   ]
 }
