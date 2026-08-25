@@ -6,6 +6,41 @@
       "expiresAt": "2026-09-22T15:14:54Z",
       "product": "premium",
       "hwidHash": "8E6192B31E4041D6ED7AC4D2673E92EEE0D7313418E81E7EE299BAD34730531A"
+    },
+    {
+      "keyHash": "193D322EA17017A7BB93B34BD2EC582E4DEB3D13537FE35289903577F441DD80",
+      "enabled": true,
+      "expiresAt": "2026-09-24T19:25:52.0116031Z",
+      "product": "premium",
+      "hwidHash": null
+    },
+    {
+      "keyHash": "75B1F5B13C11CE37B9C6F566CF20ACB8BFBB7C3F8644807A318B2F71035DA6D9",
+      "enabled": true,
+      "expiresAt": "2026-09-24T19:25:52.0116031Z",
+      "product": "premium",
+      "hwidHash": null
+    },
+    {
+      "keyHash": "7EFB7FBB3F1CBB466303C7CC23295D9CF914BD1B8D625221E7B9437D5C3826E8",
+      "enabled": true,
+      "expiresAt": "2026-09-24T19:25:52.0116031Z",
+      "product": "premium",
+      "hwidHash": null
+    },
+    {
+      "keyHash": "586BD9F4BE2C23F62583442E59ACA9076026651953AFD26080783603224CD2DE",
+      "enabled": true,
+      "expiresAt": "2026-09-24T19:25:52.0116031Z",
+      "product": "premium",
+      "hwidHash": null
+    },
+    {
+      "keyHash": "08CD80CC91BC3C9C63BCE5BF46272E13DA1715A381D91CFB39767B2E587CCA19",
+      "enabled": true,
+      "expiresAt": "2026-09-24T19:25:52.0116031Z",
+      "product": "premium",
+      "hwidHash": null
     }
   ]
 }
