@@ -30,7 +30,7 @@
     },
     {
       "keyHash": "CDAE7A502474CDAF7055B3E1D9C617557049465232FE0F854D5D4B62D2433800",
-      "enabled": true,
+      "enabled": false,
       "expiresAt": "2026-08-26T17:45:09.0389391Z",
       "product": "premium",
       "hwidHash": "B1D97C70273C46C6440FDC945463F845055B238880F9F78670786FE2C97CAC84"
