@@ -27,13 +27,6 @@
       "expiresAt": "2026-09-24T19:25:52.0116031Z",
       "product": "premium",
       "hwidHash": null
-    },
-    {
-      "keyHash": "586BD9F4BE2C23F62583442E59ACA9076026651953AFD26080783603224CD2DE",
-      "enabled": true,
-      "expiresAt": "2026-09-24T19:25:52.0116031Z",
-      "product": "premium",
-      "hwidHash": null
     }
   ]
 }
