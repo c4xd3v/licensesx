@@ -41,6 +41,13 @@
       "expiresAt": null,
       "product": "premium",
       "hwidHash": null
+    },
+    {
+      "keyHash": "D66F06880A8542231B62632E9AE297BE15A52865380297BEE70B1F622B078588",
+      "enabled": true,
+      "expiresAt": null,
+      "product": "premium",
+      "hwidHash": null
     }
   ]
 }
